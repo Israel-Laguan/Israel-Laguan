@@ -4,9 +4,9 @@ Hi, I am Israel Laguan, a professional full stack developer willing to collabora
 
 | My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] | ![linkedin-icon][] Connect to my [Linkedin][]
 | :---: | :---: | --- |
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] <td colspan=2> ![banner](docs/banner.jpg)
+| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] <td colspan=2> ![banner](./docs/banner.jpg)
 
-![stats](docs/github_stats.png)
+![stats](./docs/github_stats.png)
 Stats by [tipsy/profile-summary-for-github][]
 
 [pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
