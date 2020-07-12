@@ -2,11 +2,11 @@
 
 Hi, I am Israel Laguan, a professional full stack developer willing to collaborate as a team player building better code.
 
-| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] | ![linkedin-icon][] Connect to my [Linkedin][]
+| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] | ![linkedin-icon][] Connect to my [Linkedin][] |
 | :---: | :---: | --- |
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] <td colspan=2> ![banner](./docs/banner.jpg)
+| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] <td colspan=2> ![banner][] |
 
-![stats](./docs/github_stats.png)
+![stats][]
 Stats by [tipsy/profile-summary-for-github][]
 
 [pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
@@ -20,4 +20,6 @@ Stats by [tipsy/profile-summary-for-github][]
 [badge-postgres]: https://img.shields.io/badge/database-postgreSQL-47A248?style=for-the-badge&logo=postgresql
 [badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
 [badge-css]: https://img.shields.io/badge/style-CSS-1572B6?style=for-the-badge&logo=css3
+[banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
+[stats]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/github_stats.png
 [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/israel-laguan
