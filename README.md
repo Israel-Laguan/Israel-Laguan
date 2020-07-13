@@ -1,6 +1,6 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
-| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
+| My favorite tools |![email-icon][] Email me @ [israellaguan@gmail.com][] ![linkedin-icon][] Connect on [Linkedin][]
 | :---: | :---:
 | ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
 
