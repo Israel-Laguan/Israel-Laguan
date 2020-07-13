@@ -1,4 +1,4 @@
-# Hi, I am *willing to collaborate as a team player building better code.*
+# Hi, I'm *willing to collaborate as a team player to build better code.*
 
 | My favorite tools |![email-icon][] Email me @ [israellaguan@gmail.com][] ![linkedin-icon][] Connect on [Linkedin][]
 | :---: | :---:
