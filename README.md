@@ -4,6 +4,20 @@
 | :---: | :---:
 | ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
 
+## Some stats for the geeky ones
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Israel-Laguan&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
+### All repos
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Israel-Laguan&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
+/>
+
+### Public repos
+
 ![stats][]
 Stats by [tipsy/profile-summary-for-github][]
 
