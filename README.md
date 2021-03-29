@@ -1,14 +1,14 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Israel-Laguan&badges=3&show-avatar=false&branding=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 | My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 | :---: | :---:
 | ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
 
 ## Some stats for the geeky ones
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Israel-Laguan&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 
 ### All repos
 
