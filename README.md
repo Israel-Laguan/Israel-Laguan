@@ -1,12 +1,12 @@
-# Hi, I am *willing to collaborate as a team player building better code.*
+# Hi, I am _willing to collaborate as a team player building better code._
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Israel-Laguan&badges=3&show-avatar=false&branding=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
-| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
-| :---: | :---:
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
+|                                                     My favorite tools                                                     | ![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][] |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| [![][badge-react]][react-url] [![][badge-css]][css-url] [![][badge-nodejs]][node-url] [![][badge-postgres]][postgres-url] |                                            ![banner][]                                            |
 
 ## Some stats for the geeky ones
 
@@ -27,9 +27,9 @@ Stats by [tipsy/profile-summary-for-github][]
 [email-icon]: https://img.icons8.com/color/48/000000/message-squared.png
 [israellaguan@gmail.com]: mailto:israellaguan@gmail.com
 [linkedin-icon]: https://img.icons8.com/color/48/000000/linkedin.png
-[Linkedin]: https://www.linkedin.com/in/israellaguan
+[linkedin]: https://www.linkedin.com/in/israellaguan
 [github-icon]: https://img.icons8.com/color/48/000000/github--v1.png
-[GitHub]: https://github.com/Israel-Laguan
+[github]: https://github.com/Israel-Laguan
 [badge-nodejs]: https://img.shields.io/badge/node.js-V14.x-339933?style=for-the-badge&logo=node.js
 [badge-postgres]: https://img.shields.io/badge/database-postgreSQL-47A248?style=for-the-badge&logo=postgresql
 [badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
@@ -37,3 +37,10 @@ Stats by [tipsy/profile-summary-for-github][]
 [banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
 [stats]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/github_stats.png
 [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/israel-laguan
+
+<!-- URL -->
+
+[react-url]: https://reactjs.org/
+[css-url]: https://www.w3schools.com/css/
+[node-url]: https://nodejs.org/en/docs/
+[postgres-url]: https://www.postgresql.org/docs/
