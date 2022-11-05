@@ -1,8 +1,6 @@
-# Full Stack Software Engineer with +6 years of experience working in Typescript, Node.js, React, and PostgreSQL. I started as a data engineer due to my Mathematics background, and then concentrated on web development, working for small and medium-sized companies. Lately, I have been working in international SCRUM teams and mentoring others.*
+# Tech Lead with clean code and the best DX
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Israel-Laguan&badges=3&show-avatar=false&branding=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+I started as a data engineer due to my Mathematics background, and then concentrated on web development, working for small and medium-sized companies. Lately, I have been working in international SCRUM teams and mentoring others.
 
 | My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 | :---: | :---:
