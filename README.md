@@ -1,4 +1,8 @@
-# Hi, I am *willing to collaborate as a team player building better code.*
+# Full Stack Software Engineer with +6 years of experience working in Typescript, Node.js, React, and PostgreSQL. I started as a data engineer due to my Mathematics background, and then concentrated on web development, working for small and medium-sized companies. Lately, I have been working in international SCRUM teams and mentoring others.*
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Israel-Laguan&badges=3&show-avatar=false&branding=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 | My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 | :---: | :---:
